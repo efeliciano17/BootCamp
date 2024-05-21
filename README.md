@@ -1,4 +1,4 @@
-# Bootcamp Repository
+# 📙 Bootcamp Repository 📙 
 
 Welcome to the Bootcamp repository! This repository is a collection of various projects that were undertaken during a comprehensive Bootcamp. These projects span across different domains of technology and cybersecurity, providing a holistic overview of practical skills and knowledge.
 
