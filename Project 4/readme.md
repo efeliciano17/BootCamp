@@ -1,4 +1,4 @@
 # :beetle: Project 4: BootCon (Hackable III Machine)
 An exploitation walkthrough of a publicly vulnerable web environment was conducted. The ideal mitigation was determined.
 
-![_Emyrca Feliciano Estrada__Project 4 Bootcon-Hackable3_ pptx](https://github.com/efeliciano17/BootCamp/assets/147889435/fe652de4-ab5a-489c-b0cd-e6125d0059f6)
+[Project 4 Presentation Link](https://docs.google.com/presentation/d/e/2PACX-1vT8TBz8a2AOPaG8wfs0t9VPL6hZkXzDAwyRXcKYPfwoGWTnqF8S2HH7ezXjX1iYnQ/pub?start=false&loop=false&delayms=3000&slide=id.p2)
